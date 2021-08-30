@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\bin\Debug\Ders_Ahmet.exe.config
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\bin\Debug\Ders_Ahmet.exe
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\bin\Debug\Ders_Ahmet.pdb
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.Form1.resources
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.exe
+C:\Users\Administrator\source\repos\Ders_Ahmet\Ders_Ahmet\obj\Debug\Ders_Ahmet.pdb
